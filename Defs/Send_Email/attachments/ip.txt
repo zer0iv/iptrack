@@ -1,0 +1,136 @@
+Victim Public IP: 180.248.92.253
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: WhatsApp/2.19.150 A
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: WhatsApp/2.19.150 A
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: WhatsApp/2.19.150 A
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: WhatsApp/2.19.150 A
+
+Current logged in user: rootVictim Public IP: 125.160.64.122
+User-Agent: Mozilla/5.0 (Linux; U; Android 9; in-id; CPH1931 Build/PKQ1.190714.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/70.0.3538.80 Mobile Safari/537.36 OppoBrowser/25.6.2.5
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: WhatsApp/2.19.150 A
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: WhatsApp/2.19.150 A
+
+Current logged in user: rootVictim Public IP: 114.5.103.1
+User-Agent: Mozilla/5.0 (Linux; Android 9; vivo 1819 Build/P00610; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36 VivoBrowser/6.0.0.2
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: WhatsApp/2.19.150 A
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: WhatsApp/2.19.150 A
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 180.248.92.253
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 36.82.188.52
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 36.82.188.52
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 36.83.36.62
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 123.136.112.105
+User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; vivo Y28) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.96 Mobile Safari/537.36
+
+Current logged in user: rootVictim Public IP: 36.80.0.27
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+
+Current logged in user: rootVictim Public IP: 182.1.198.165
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+
+Current logged in user: rootVictim Public IP: 14.39.86.243
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 36.82.34.105
+User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; SM-T590) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Safari/537.36
+
+Current logged in user: rootVictim Public IP: 206.189.34.95
+User-Agent: Mozilla/5.0 (Linux; Android 9; SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36
+
+Current logged in user: rootVictim Public IP: 103.88.197.18
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+
+Current logged in user: rootVictim Public IP: 180.248.122.123
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 180.248.122.123
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 180.248.122.123
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 103.94.132.2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+
+Current logged in user: rootVictim Public IP: 36.68.5.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+
+Current logged in user: rootVictim Public IP: 103.94.132.2
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+
+Current logged in user: rootVictim Public IP: 180.248.122.123
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 36.68.5.128
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+
+Current logged in user: rootVictim Public IP: 118.96.82.226
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+
+Current logged in user: rootVictim Public IP: 139.218.140.4
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+
+Current logged in user: root
